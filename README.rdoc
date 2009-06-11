@@ -4,7 +4,7 @@ MigrationTestHelper provides methods which let you assert the current state of t
 
 == Install
 
-  script/plugin install git://github.com/bendyworks/migration_test_helper.git
+  script/plugin install git://github.com/avh4/migration_test_helper.git
 
 If you're using it outside of a Rails environment (for whatever reason) include the MigrationTestHelper module in your tests:
 
